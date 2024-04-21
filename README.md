@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 💞️ Hi, I'am @BJanowskiiii
-- ⚡ I am interested in JS, TS, react, next.js, express, supbase
+- ⚡ I am interested in JS, TS, react, next.js, express, supabase
 - 🔭 I’m currently computer science student
 - 🌱 I’m currently working on developing my skills into Web Development
 - 📫 How to reach me: b.janowskiiii@gmail.com
