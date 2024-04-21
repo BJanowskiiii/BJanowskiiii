@@ -1,4 +1,4 @@
-### Hi there     
+### Hi there 👋
 - 💞️ Hi, I'am @BJanowskiiii
 - ⚡ I am interested in JS, TS, react, next.js, express, supbase
 - 🔭 I’m currently computer science student
